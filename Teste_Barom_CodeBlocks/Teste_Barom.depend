@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1765716757 source:c:\trabalhos aqui\teste no codeblocks\teste_barom\main.c
+	<stdio.h>
+	<stdint.h>
+	<math.h>
+
